@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Volodia\source\pacman\build\CMakeFiles\17f808be7bb3c7c097e5ceae93b39490\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5B1C2E7E-065E-3668-8ACB-950C9C533D29}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
